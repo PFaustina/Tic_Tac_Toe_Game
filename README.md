@@ -21,6 +21,3 @@ Rock beats scissors.
 Paper covers rock.
 Scissors cut paper.
 
-# unsolved problems
-
-One of the challenges in the game I am currently having is the inability to add a scoring system that spans multiple rounds. As a result, each game is limited to a single round.
