@@ -17,6 +17,7 @@ scissorsBtn.addEventListener('click', function() {
         play('scissors');
     });
 
+    //updates the result message on the page
 
 function updateResult(result) {
 
@@ -34,7 +35,8 @@ const options = {
     scissors: {beats: 'paper', message: 'Scissors cut paper.'}
 };
   
-//Possible options & outcome
+//Possible options & all the outcome of the game
+
   function play(playerChoice) {
     const choices = Object.keys(options);
 
